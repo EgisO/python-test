@@ -1,6 +1,7 @@
 import math
 summ = 0
 tot_sum=0
+ttt = 0
 
 def prime(i):
     if i == 1 :
